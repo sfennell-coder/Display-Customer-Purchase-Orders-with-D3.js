@@ -1,17 +1,22 @@
 body{
     background-color: gray;
 }
-h1{
+h2{
     text-align: center;
     font-family: sans-serif;
     text-shadow: 0 0 10px green ;
 }
 div{
     text-align: center;
-    
 }
 ul{
+    width: 375px;
+    height:200px;
     display: inline-block;
     text-align: left;
-    background-color: rgb(97, 139, 97);
+    border: 2px solid black;
+    background-color: rgb(97, 139, 97)
+}
+li{
+    height: 18%;
 }
