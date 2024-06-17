@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    text-shadow: 0 0 10px green ;
+}
+div{
+    text-align: center;
+    
+}
+ul{
+    display: inline-block;
+    text-align: left;
+    background-color: rgb(97, 139, 97);
+}
